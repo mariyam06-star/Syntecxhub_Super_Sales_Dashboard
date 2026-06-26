@@ -1,0 +1,2 @@
+# Syntecxhub_Super_Sales_Dashboard
+sales dashboard
